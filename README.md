@@ -1,2 +1,4 @@
-# helo-world
-its my first github repository
+# hello-world
+
+Say good bye to SVN
+
